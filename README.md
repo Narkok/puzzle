@@ -1,2 +1,2 @@
-# puzzle
+# Puzzle
 Logic game on Prolog
